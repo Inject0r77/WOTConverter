@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "lesta": {
+    "credits_per_gold": 400,
+    "free_xp_per_gold": 25,
+    "promo_free_xp_per_gold": 35,
+    "premium_gold_30_days": 2500,
+    "single_box_price": 39.0,
+    "gold_pricing": {
+      "tier1_max_gold": 100,
+      "tier1_rub_per_gold": 0.16,
+      "tier2_max_gold": 500,
+      "tier2_base_rub": 16,
+      "tier2_rub_per_gold": 0.155,
+      "tier3_rub_per_gold": 0.156
+    }
+  },
+  "wg": {
+    "credits_per_gold": 400,
+    "free_xp_per_gold": 25,
+    "promo_free_xp_per_gold": 35,
+    "premium_gold_30_days": 2500,
+    "eur_per_gold": 0.0036,
+    "single_box_fallback_price": 1.366,
+    "box_packages": [
+      { "count": 230, "price": 264.86 },
+      { "count": 120, "price": 146.78 },
+      { "count": 80, "price": 103.65 },
+      { "count": 30, "price": 40.15 },
+      { "count": 5, "price": 6.83 }
+    ]
+  }
+}
